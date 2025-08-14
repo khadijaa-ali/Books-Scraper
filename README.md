@@ -1,11 +1,11 @@
-# 📚 Bookstore Web Scraper & Excel Report Generator
+#  Bookstore Web Scraper & Excel Report Generator
 
 This Python project scrapes book details (Title, Price, Stock Availability) from the [Books to Scrape](https://books.toscrape.com/) website and saves them into a **well-formatted Excel report**.  
 It’s a beginner-friendly data collection and reporting project for practicing **web scraping, data handling, and automation**.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Web Scraping** using `requests` & `BeautifulSoup`
 - **Data Processing** with `pandas`
 - **Excel Export & Formatting** using `openpyxl`
@@ -14,7 +14,7 @@ It’s a beginner-friendly data collection and reporting project for practicing 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python 3
 - Pandas
 - BeautifulSoup4
